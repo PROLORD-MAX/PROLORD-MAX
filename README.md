@@ -1,53 +1,63 @@
+
 <div align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
+     alt="Hello Coders"
+     width="60%"/>
+
+<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
+     alt="Workspace"
+     width="40%"/>
+
+<br><br>
 
 # 👋 Hi, I'm Adel Mohamed
 
 ### 🐍 Python Learner | 🗄️ SQL & NoSQL | 📊 Aspiring Data Engineer
 
-I'm currently learning and building my skills in **Python, SQL, NoSQL, and Data Engineering**.
-
-My goal is to build a strong foundation in programming, databases, data processing, and eventually work on real-world **Data Engineering & AI projects**.
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=orange\&label=PROFILE+VIEWS)
-
 </div>
 
 ---
 
-## 🚀 What I'm Learning
+## 🚀 Tools & Technologies I Use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-FF6F00?style=flat\&logo=apacheairflow\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
-## 🛠️ My Tech Stack
-
 ```python
+# tools_I_use organized
+
 class AdelMohamed:
 
     def __init__(self):
+
         self.name = "Adel Mohamed"
+        self.username = "PROLORD-MAX"
         self.role = "Aspiring Data Engineer"
 
-        self.languages = {
+        self.programming = {
             "Python",
             "SQL"
         }
 
         self.databases = {
-            "SQL Databases",
-            "NoSQL Databases"
+            "SQL",
+            "NoSQL",
+            "MongoDB"
         }
 
         self.data_tools = {
@@ -60,6 +70,12 @@ class AdelMohamed:
             "Git",
             "GitHub",
             "VS Code",
+            "Jupyter",
+            "Google Colab"
+        }
+
+        self.platforms = {
+            "Windows",
             "Linux"
         }
 
@@ -69,7 +85,7 @@ class AdelMohamed:
             "NoSQL",
             "Data Engineering"
         }
-```
+````
 
 ---
 
@@ -77,24 +93,27 @@ class AdelMohamed:
 
 * 🐍 **Python**
 * 🗄️ **SQL**
-* 🍃 **NoSQL**
+* 🍃 **NoSQL / MongoDB**
 * 📊 **Data Engineering**
-* 🐼 **Pandas**
 * 🔢 **NumPy**
+* 🐼 **Pandas**
 * 📈 **Data Visualization**
 * 🐧 **Linux**
-* 🌱 **Git & GitHub**
+* 🔧 **Git & GitHub**
 
 ---
 
 ## 🎯 My Goal
 
-I am working toward becoming a **Data Engineer** by building a strong understanding of:
+I'm currently working toward becoming a **Data Engineer**.
 
-* Programming fundamentals
+My learning path is focused on building a strong foundation in:
+
+* Python Programming
 * Data Structures
-* Databases
-* SQL & NoSQL
+* SQL & Databases
+* NoSQL Databases
+* Data Analysis
 * Data Processing
 * ETL / ELT
 * Data Pipelines
@@ -106,57 +125,84 @@ I am working toward becoming a **Data Engineer** by building a strong understand
 
 ## 💻 What I'm Working On
 
-I'm currently focused on learning by **building projects and practicing what I study**.
+I'm learning by combining:
 
-I believe the best way to learn programming and data engineering is to combine:
+**Learn → Practice → Build → Make Mistakes → Improve 🚀**
 
-**Learn → Practice → Build → Make mistakes → Improve 🚀**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-
-</a>
-
-</div>
+I'm currently focusing on building practical projects with **Python, SQL, NoSQL, and Data Engineering**.
 
 ---
 
-## 🧠 Learning Journey
+## 🧠 My Learning Journey
 
 ```text
-Python
-   ↓
-Data Structures
-   ↓
-NumPy & Pandas
-   ↓
-SQL
-   ↓
-NoSQL
-   ↓
-Data Engineering
-   ↓
-ETL / Data Pipelines
-   ↓
-Cloud & Big Data
-   ↓
+🐍 Python
+     ↓
+📚 Data Structures
+     ↓
+🔢 NumPy
+     ↓
+🐼 Pandas
+     ↓
+📈 Data Visualization
+     ↓
+🗄️ SQL
+     ↓
+🍃 NoSQL / MongoDB
+     ↓
+⚙️ Data Engineering
+     ↓
+🔄 ETL / ELT
+     ↓
+🏗️ Data Pipelines
+     ↓
+☁️ Cloud & Big Data
+     ↓
 🚀 Data Engineer
 ```
 
 ---
 
+## 📊 GitHub Stats
+
+
+I'm currently building my GitHub profile and working on new projects.
+
+More projects and contributions are coming soon. 🚀
+
+---
+
+## 🔥 Code Cycle
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png"
+  width="10%"
+  alt="Debugging"/>
+
+     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png"
+  width="10%"
+  alt="It works!"/>
+
+     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png"
+  width="10%"
+  alt="It works somehow!"/>
+
+<br><br>
+
+**Learn → Code → Debug → Fix → Repeat 🔁**
+
+</div>
+
+---
+
 ## ⚡ Fun Fact
 
-I'm constantly learning something new and turning what I learn into practical projects.
+I believe that every error is another opportunity to learn something new.
 
 **One step at a time. One project at a time. 🚀**
 
@@ -164,8 +210,9 @@ I'm constantly learning something new and turning what I learn into practical pr
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### 👋 Thanks for visiting my profile!
 
 ⭐ Feel free to explore my repositories and follow my learning journey.
 
 </div>
+```
