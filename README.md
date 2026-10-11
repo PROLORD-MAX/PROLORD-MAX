@@ -1,218 +1,72 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.jpg">
+  <img src="banner-light.jpg" alt="Adel Mohamed – Data Engineer: building cloud data pipelines that turn raw data into decisions" width="100%">
+</picture>
 
-<div align="center">
+<h1 align="center">Hi, I'm Adel Mohamed 👋</h1>
 
-<img src="https://raw.githubusercontent.com/PROLORD-MAX/PROLORD-MAX/main/hellocoders_roundedaaa.gif"
-     alt="Adel Mohamed"
-     width="60%"/>
+<p align="center">
+  <b>Data Engineer</b> · Microsoft Data Engineering Track @ DEPI · Cairo, Egypt
+</p>
 
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
-     alt="Workspace"
-     width="40%"/>
-
-<br><br>
-
-# 👋 Hi, I'm Adel Mohamed
-
-### 🐍 Python Learner | 🗄️ SQL & NoSQL | 📊 Aspiring Data Engineer
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adel-mohamed-981a19202/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://adelportfoli-wqtqe3ej.manus.space"><img src="https://img.shields.io/badge/Portfolio-0E2442?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:adelmohamed1333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🚀 Tools & Technologies I Use
+### About me
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+- I build **cloud data pipelines on Azure** that take raw data and turn it into clean, decision-ready tables.
+- I'm completing the **Microsoft Data Engineer track** at the Digital Egypt Pioneers Initiative (DEPI).
+- Since 2021 I've founded and run a group of cafés and kids' entertainment venues, so I know first-hand how much business decisions depend on reliable data.
 
----
+### 🔨 Currently building
 
-```python
-# tools_I_use organized
-
-class AdelMohamed:
-
-    def __init__(self):
-
-        self.name = "Adel Mohamed"
-        self.username = "PROLORD-MAX"
-        self.role = "Aspiring Data Engineer"
-
-        self.programming = {
-            "Python",
-            "SQL"
-        }
-
-        self.databases = {
-            "SQL",
-            "NoSQL",
-            "MongoDB"
-        }
-
-        self.data_tools = {
-            "NumPy",
-            "Pandas",
-            "Data Visualization"
-        }
-
-        self.tools = {
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Jupyter",
-            "Google Colab"
-        }
-
-        self.platforms = {
-            "Windows",
-            "Linux"
-        }
-
-        self.current_focus = {
-            "Python",
-            "SQL",
-            "NoSQL",
-            "Data Engineering"
-        }
-````
-
----
-
-## 📚 Currently Learning
-
-* 🐍 **Python**
-* 🗄️ **SQL**
-* 🍃 **NoSQL / MongoDB**
-* 📊 **Data Engineering**
-* 🔢 **NumPy**
-* 🐼 **Pandas**
-* 📈 **Data Visualization**
-* 🐧 **Linux**
-* 🔧 **Git & GitHub**
-
----
-
-## 🎯 My Goal
-
-I'm currently working toward becoming a **Data Engineer**.
-
-My learning path is focused on building a strong foundation in:
-
-* Python Programming
-* Data Structures
-* SQL & Databases
-* NoSQL Databases
-* Data Analysis
-* Data Processing
-* ETL / ELT
-* Data Pipelines
-* Data Warehousing
-* Cloud Technologies
-* Big Data
-
----
-
-## 💻 What I'm Working On
-
-I'm learning by combining:
-
-**Learn → Practice → Build → Make Mistakes → Improve 🚀**
-
-I'm currently focusing on building practical projects with **Python, SQL, NoSQL, and Data Engineering**.
-
----
-
-## 🧠 My Learning Journey
+**[Cloud Retail Data Lake & Data Warehouse](https://github.com/Muhammad-Maharem/Cloud-Retail-Data-Lake-and-Data-Warehouse)** – graduation project, team of 6
 
 ```text
-🐍 Python
-     ↓
-📚 Data Structures
-     ↓
-🔢 NumPy
-     ↓
-🐼 Pandas
-     ↓
-📈 Data Visualization
-     ↓
-🗄️ SQL
-     ↓
-🍃 NoSQL / MongoDB
-     ↓
-⚙️ Data Engineering
-     ↓
-🔄 ETL / ELT
-     ↓
-🏗️ Data Pipelines
-     ↓
-☁️ Cloud & Big Data
-     ↓
-🚀 Data Engineer
+Sources → Raw → Processed → Curated → Warehouse → Insights
 ```
 
----
+- **Azure Data Lake Storage Gen2** organised into raw / processed / curated zones
+- **PySpark on Synapse Spark** for cleaning and transformation, written out as **Parquet**
+- **Star schema** (FactSales + Product, Customer, Store and Date dimensions) queried with **Synapse Serverless SQL**
+- Data quality checks, access control and pipeline monitoring
 
-## 📊 GitHub Stats
+### 🧰 Tech stack
 
+**Cloud & data**
+<br>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat-square" alt="Azure Synapse">
+<img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat-square" alt="ADLS Gen2">
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
+<img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white" alt="Parquet">
 
-I'm currently building my GitHub profile and working on new projects.
+**Languages & databases**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 
-More projects and contributions are coming soon. 🚀
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code">
 
----
+### 📚 Learning now
 
-## 🔥 Code Cycle
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png"
-  width="10%"
-  alt="Debugging"/>
-
-     
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png"
-  width="10%"
-  alt="It works!"/>
-
-     
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png"
-  width="10%"
-  alt="It works somehow!"/>
-
-<br><br>
-
-**Learn → Code → Debug → Fix → Repeat 🔁**
-
-</div>
+PySpark · Azure Synapse Analytics · Dimensional modeling · Data quality testing
 
 ---
 
-## ⚡ Fun Fact
-
-I believe that every error is another opportunity to learn something new.
-
-**One step at a time. One project at a time. 🚀**
-
----
-
-<div align="center">
-
-### 👋 Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and follow my learning journey.
-
-</div>
-```
+<p align="center">
+  Open to <b>junior Data Engineering roles and internships</b>. Let's connect on <a href="https://www.linkedin.com/in/adel-mohamed-981a19202/">LinkedIn</a>.
+</p>
