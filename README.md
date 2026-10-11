@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="linkedin-banner-data-engineer-light.png" alt="Adel Mohamed – Data Engineer: building cloud data pipelines that turn raw data into decisions" width="100%">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/PROLORD-MAX/PROLORD-MAX/main/hellocoders_roundedaaa.gif" alt="Hello coders" height="170">
   &nbsp;
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" height="170">
