@@ -1,9 +1,18 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.jpg">
-  <img src="banner-light.jpg" alt="Adel Mohamed – Data Engineer: building cloud data pipelines that turn raw data into decisions" width="100%">
-</picture>
+<p align="center">
+  <img src="linkedin-banner-data-engineer-light.png" alt="Adel Mohamed – Data Engineer: building cloud data pipelines that turn raw data into decisions" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PROLORD-MAX/PROLORD-MAX/main/hellocoders_roundedaaa.gif" alt="Hello coders" height="170">
+  &nbsp;
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" height="170">
+</p>
 
 <h1 align="center">Hi, I'm Adel Mohamed 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F7FD1&center=true&vCenter=true&width=620&lines=Data+Engineer;Azure+%E2%80%A2+Synapse+%E2%80%A2+PySpark+%E2%80%A2+SQL;Building+cloud+data+pipelines;Raw+data+%E2%86%92+decisions" alt="Typing SVG: Data Engineer, Azure, Synapse, PySpark, SQL, building cloud data pipelines">
+</p>
 
 <p align="center">
   <b>Data Engineer</b> · Microsoft Data Engineering Track @ DEPI · Cairo, Egypt
@@ -64,6 +73,18 @@ Sources → Raw → Processed → Curated → Warehouse → Insights
 ### 📚 Learning now
 
 PySpark · Azure Synapse Analytics · Dimensional modeling · Data quality testing
+
+### 🔥 Code cycle
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It works!">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works somehow!">
+  <br><br>
+  <b>Learn → Code → Debug → Fix → Repeat 🔁</b>
+</p>
 
 ---
 
